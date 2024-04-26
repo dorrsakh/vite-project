@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: tan;
+  list-style: none;
+}
+
+.setPadding {
+  padding: 15px;
+}
+
+.active {
+  color: rgb(255, 251, 251);
+}
