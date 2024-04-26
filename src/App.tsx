@@ -1,6 +1,7 @@
 import ListGroup from "./components/ListGroup";
 import ListCities from "./components/ListCities";
 import Like from "./components/Like";
+import React from "react";
 
 function App() {
   const cities = [
